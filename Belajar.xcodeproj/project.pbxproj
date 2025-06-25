@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		F17EAFF92DFBB73300C7C9BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F17EAFE32DFBB73200C7C9BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F17EAFEA2DFBB73200C7C9BF;
+			remoteInfo = Belajar;
+		};
+		F17EB0032DFBB73300C7C9BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F17EAFE32DFBB73200C7C9BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F17EAFEA2DFBB73200C7C9BF;
+			remoteInfo = Belajar;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F17EAFEB2DFBB73200C7C9BF /* Belajar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Belajar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F17EAFF82DFBB73300C7C9BF /* BelajarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BelajarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F17EB0022DFBB73300C7C9BF /* BelajarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BelajarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F17EAFED2DFBB73200C7C9BF /* Belajar */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Belajar;
+			sourceTree = "<group>";
+		};
+		F17EAFFB2DFBB73300C7C9BF /* BelajarTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = BelajarTests;
+			sourceTree = "<group>";
+		};
+		F17EB0052DFBB73300C7C9BF /* BelajarUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = BelajarUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F17EAFE82DFBB73200C7C9BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EAFF52DFBB73300C7C9BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EAFFF2DFBB73300C7C9BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F17EAFE22DFBB73200C7C9BF = {
+			isa = PBXGroup;
+			children = (
+				F17EAFED2DFBB73200C7C9BF /* Belajar */,
+				F17EAFFB2DFBB73300C7C9BF /* BelajarTests */,
+				F17EB0052DFBB73300C7C9BF /* BelajarUITests */,
+				F17EAFEC2DFBB73200C7C9BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F17EAFEC2DFBB73200C7C9BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F17EAFEB2DFBB73200C7C9BF /* Belajar.app */,
+				F17EAFF82DFBB73300C7C9BF /* BelajarTests.xctest */,
+				F17EB0022DFBB73300C7C9BF /* BelajarUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F17EAFEA2DFBB73200C7C9BF /* Belajar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F17EB00C2DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "Belajar" */;
+			buildPhases = (
+				F17EAFE72DFBB73200C7C9BF /* Sources */,
+				F17EAFE82DFBB73200C7C9BF /* Frameworks */,
+				F17EAFE92DFBB73200C7C9BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F17EAFED2DFBB73200C7C9BF /* Belajar */,
+			);
+			name = Belajar;
+			packageProductDependencies = (
+			);
+			productName = Belajar;
+			productReference = F17EAFEB2DFBB73200C7C9BF /* Belajar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F17EAFF72DFBB73300C7C9BF /* BelajarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F17EB00F2DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "BelajarTests" */;
+			buildPhases = (
+				F17EAFF42DFBB73300C7C9BF /* Sources */,
+				F17EAFF52DFBB73300C7C9BF /* Frameworks */,
+				F17EAFF62DFBB73300C7C9BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F17EAFFA2DFBB73300C7C9BF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F17EAFFB2DFBB73300C7C9BF /* BelajarTests */,
+			);
+			name = BelajarTests;
+			packageProductDependencies = (
+			);
+			productName = BelajarTests;
+			productReference = F17EAFF82DFBB73300C7C9BF /* BelajarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F17EB0012DFBB73300C7C9BF /* BelajarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F17EB0122DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "BelajarUITests" */;
+			buildPhases = (
+				F17EAFFE2DFBB73300C7C9BF /* Sources */,
+				F17EAFFF2DFBB73300C7C9BF /* Frameworks */,
+				F17EB0002DFBB73300C7C9BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F17EB0042DFBB73300C7C9BF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F17EB0052DFBB73300C7C9BF /* BelajarUITests */,
+			);
+			name = BelajarUITests;
+			packageProductDependencies = (
+			);
+			productName = BelajarUITests;
+			productReference = F17EB0022DFBB73300C7C9BF /* BelajarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F17EAFE32DFBB73200C7C9BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					F17EAFEA2DFBB73200C7C9BF = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					F17EAFF72DFBB73300C7C9BF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = F17EAFEA2DFBB73200C7C9BF;
+					};
+					F17EB0012DFBB73300C7C9BF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = F17EAFEA2DFBB73200C7C9BF;
+					};
+				};
+			};
+			buildConfigurationList = F17EAFE62DFBB73200C7C9BF /* Build configuration list for PBXProject "Belajar" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F17EAFE22DFBB73200C7C9BF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F17EAFEC2DFBB73200C7C9BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F17EAFEA2DFBB73200C7C9BF /* Belajar */,
+				F17EAFF72DFBB73300C7C9BF /* BelajarTests */,
+				F17EB0012DFBB73300C7C9BF /* BelajarUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F17EAFE92DFBB73200C7C9BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EAFF62DFBB73300C7C9BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EB0002DFBB73300C7C9BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F17EAFE72DFBB73200C7C9BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EAFF42DFBB73300C7C9BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F17EAFFE2DFBB73300C7C9BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F17EAFFA2DFBB73300C7C9BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F17EAFEA2DFBB73200C7C9BF /* Belajar */;
+			targetProxy = F17EAFF92DFBB73300C7C9BF /* PBXContainerItemProxy */;
+		};
+		F17EB0042DFBB73300C7C9BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F17EAFEA2DFBB73200C7C9BF /* Belajar */;
+			targetProxy = F17EB0032DFBB73300C7C9BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F17EB00A2DFBB73300C7C9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F17EB00B2DFBB73300C7C9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F17EB00D2DFBB73300C7C9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.Belajar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F17EB00E2DFBB73300C7C9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.Belajar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F17EB0102DFBB73300C7C9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.BelajarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Belajar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Belajar";
+			};
+			name = Debug;
+		};
+		F17EB0112DFBB73300C7C9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.BelajarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Belajar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Belajar";
+			};
+			name = Release;
+		};
+		F17EB0132DFBB73300C7C9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.BelajarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Belajar;
+			};
+			name = Debug;
+		};
+		F17EB0142DFBB73300C7C9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L3F5U7Z54M;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = k1.BelajarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Belajar;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F17EAFE62DFBB73200C7C9BF /* Build configuration list for PBXProject "Belajar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F17EB00A2DFBB73300C7C9BF /* Debug */,
+				F17EB00B2DFBB73300C7C9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F17EB00C2DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "Belajar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F17EB00D2DFBB73300C7C9BF /* Debug */,
+				F17EB00E2DFBB73300C7C9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F17EB00F2DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "BelajarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F17EB0102DFBB73300C7C9BF /* Debug */,
+				F17EB0112DFBB73300C7C9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F17EB0122DFBB73300C7C9BF /* Build configuration list for PBXNativeTarget "BelajarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F17EB0132DFBB73300C7C9BF /* Debug */,
+				F17EB0142DFBB73300C7C9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F17EAFE32DFBB73200C7C9BF /* Project object */;
+}
